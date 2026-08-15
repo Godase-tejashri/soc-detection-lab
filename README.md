@@ -17,16 +17,16 @@ Threat hunting and dashboard analysis
 Investigation of endpoint security events
 
 🖥️ Environment Setup
-Component	Details
-SIEM	Wazuh
-Wazuh Version	4.14.6
-Host Machine	Acer PC
-Wazuh Manager	10.163.225.136
-Linux Endpoint	192.168.100.5
-Windows Endpoint	Windows 10
-Linux Agent	Wazuh Agent
-Monitoring	Wazuh Dashboard
-Threat Framework	MITRE ATT&CK
+Component -	Details
+SIEM	     -  Wazuh
+Wazuh Version-	4.14.6
+Host Machine-	PC
+Wazuh Manager	-10.x.x.x
+Linux Endpoint-	192.x.x.x
+Windows Endpoint	-Windows 10
+Linux Agent	-Wazuh Agent
+Monitoring	-Wazuh Dashboard
+Threat Framework	-MITRE ATT&CK
 ⚙️ Wazuh Linux Agent Installation
 
 The Wazuh agent was installed on the Linux endpoint and configured to communicate with the central Wazuh Manager.
