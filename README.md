@@ -25,7 +25,7 @@ The lab was implemented to monitor endpoint logs, detect authentication failures
 
 The following architecture represents the flow of endpoint logs from monitored systems to the Wazuh Manager and Dashboard.
 
-![Wazuh SOC Lab Architecture](Architecture/architecture.png)
+![Wazuh SOC Lab Architecture](architecture.png)
 
 
 
