@@ -119,7 +119,7 @@ The screenshot demonstrates the active Wazuh agent service and its communication
 
 ### Evidence
 
-![Linux Agent Installation & Status](Screenshots/image1.jpeg)
+![Linux Agent Installation & Status](image1.jpeg)
 
 ---
 
