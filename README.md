@@ -142,7 +142,7 @@ These logs demonstrate how raw operating system events are collected and analyze
 
 ### Evidence
 
-![Wazuh Authentication Failure Logs](Screenshots/image2.jpeg)
+![Wazuh Authentication Failure Logs](image2.jpeg)
 
 ---
 
@@ -162,9 +162,9 @@ This demonstrates the use of MITRE ATT&CK to provide context to detected securit
 
 ### Evidence
 
-![MITRE ATT\&CK Dashboard](Screenshots/image3.jpeg)
+![MITRE ATT\&CK Dashboard](image3.jpeg)
 
-![MITRE ATT\&CK Analysis](Screenshots/image4.jpeg)
+![MITRE ATT\&CK Analysis](image4.jpeg)
 
 ---
 
@@ -182,9 +182,9 @@ This dashboard provides a centralized view for analyzing security events and mon
 
 ### Evidence
 
-![Threat Hunting Summary](Screenshots/image5.jpeg)
+![Threat Hunting Summary](image5.jpeg)
 
-![Security Analytics](Screenshots/image6.jpeg)
+![Security Analytics](image6.jpeg)
 
 ---
 
